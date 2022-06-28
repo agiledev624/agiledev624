@@ -15,11 +15,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saint-prince&label=Profile%20views&color=0e75b6&style=flat" alt="saint-prince" /> </p>
 Mostly described as
 <br>
-💎 Blockchain Engineer
+💎 Blockchain Engineer (Ethereum, Solana)
 <br>
-💎 Full Stack Web Engineer
-<br>
-💎 Mobile Developer
+💎 Web2 Developer
 <br>
 💎 Contributor
 <br>
